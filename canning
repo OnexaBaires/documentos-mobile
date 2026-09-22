@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Política de Privacidad - CANNING MEDICAL CENTER</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: #f5f6f8;
+            color: #2c2c2c;
+            line-height: 1.7;
+        }
+
+        header {
+            background: #125174;
+            color: #fff;
+            padding: 2rem 2rem 1.5rem;
+        }
+
+        header .org {
+            font-size: 0.8rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: #a8c8db;
+            margin-bottom: 0.4rem;
+        }
+
+        header h1 {
+            font-size: 1.6rem;
+            font-weight: 700;
+            letter-spacing: 0.01em;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1.5rem 3rem;
+        }
+
+        .card {
+            background: #fff;
+            border-radius: 8px;
+            padding: 2rem 2.5rem;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+        }
+
+        .subtitle {
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: #125174;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 2px solid #125174;
+        }
+
+        h4 {
+            font-size: 1rem;
+            font-weight: 700;
+            color: #125174;
+            margin: 1.8rem 0 0.6rem;
+        }
+
+        p {
+            text-align: justify;
+            margin-bottom: 0.8rem;
+            font-size: 0.95rem;
+            color: #3a3a3a;
+        }
+
+        ol {
+            padding-left: 1.5rem;
+            margin: 0.5rem 0 0.8rem;
+        }
+
+        ol li {
+            font-size: 0.95rem;
+            color: #3a3a3a;
+            margin-bottom: 0.4rem;
+        }
+
+        footer {
+            text-align: center;
+            font-size: 0.78rem;
+            color: #999;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="org">CANNING MEDICAL CENTER</div>
+    <h1>Políticas de Privacidad</h1>
+</header>
+
+<div class="container">
+    <div class="card">
+        <div class="subtitle">Declaración sobre la Política de CANNING MEDICAL CENTER referente a Privacidad</div>
+
+        <h4>1. Declaración General</h4>
+        <p>CANNING MEDICAL CENTER -  (en adelante "CANNING MEDICAL CENTER"), se encuentra comprometido con garantizar la confidencialidad y el resguardo de la intimidad de los usuarios en su Sitio Web, www.canningmedicalcenter.com.ar (en adelante el "SITIO"), en virtud de ello es que realizará los esfuerzos que considere necesarios para que los usuarios de su SITIO se encuentren protegidos.</p>
+        <p>La presente política de privacidad se aplica exclusivamente a la información ofrecida a CANNING MEDICAL CENTER mediante su SITIO, y no a la ofrecida a otras compañías u organizaciones o sitios web con los que el SITIO contenga enlaces y sobre los que CANNING MEDICAL CENTER no tiene control. CANNING MEDICAL CENTER no se responsabiliza por el actuar de los sitios web a los cuales se puede acceder por medio del SITIO, por lo que recomendamos la lectura de la política de privacidad de cada uno ellos.</p>
+        <p>Cada vez que CANNING MEDICAL CENTER recopile cierta información mediante el SITIO, creemos que usted debe comprender plenamente nuestra política respecto del uso de esa información. Esta declaración sobre política de privacidad revela qué información recogemos, cómo la usamos y cómo puede corregirse o cambiarse.</p>
+
+        <h4>2. Información General</h4>
+        <p>Nuestro sistema podría obtener información automáticamente acerca de su conducta cuando navega por el SITIO, a través de "cookies". Un cookie es un pequeño archivo de datos que algunos sitios web escriben en el disco duro de su computadora cuando usted los visita. Un archivo cookie puede contener información como la identificación del usuario que el sitio utiliza para rastrear las páginas que usted ha visitado. Pero la única información personal que un cookie puede contener es aquella que usted mismo haya suministrado. Un cookie no puede leer datos de su disco duro ni leer los archivos cookie creados por otros sitios. CANNING MEDICAL CENTER podría utilizar cookies para rastrear los patrones de tráfico del usuario cuando navega por ciertas páginas del SITIO. Si usted ha ajustado su navegador para que le avise antes de aceptar cookies, recibirá un mensaje de advertencia con cada cookie. Usted puede rehusar aceptar cookies, desactivándolos en su navegador. No es necesario tener cookies activados para usar el SITIO de CANNING MEDICAL CENTER. Sin embargo, si usted los rechaza, podría no tener acceso a ciertos servicios del SITIO.</p>
+        <p>Si bien CANNING MEDICAL CENTER cuenta con sistemas de protección tecnológica, ninguna transmisión por internet puede garantizar su seguridad al 100%. Por lo tanto, CANNING MEDICAL CENTER no puede asegurar que la información ingresada en su sitio web o transmitida utilizando un servicio sea completamente segura, con lo cual el usuario comprende que utiliza el sitio bajo su propio riesgo.</p>
+        <p>Esta política de privacidad se aplica solo al sitio web de CANNING MEDICAL CENTER.</p>
+        <p>Si el usuario utiliza el sitio web de CANNING MEDICAL CENTER y los servicios ofrecidos a través del mismo, significa que ha leído, comprendido y acordado con los términos antes expuestos. Si no está de acuerdo, tiene la opción de no utilizar el SITIO.</p>
+
+        <h4>3. Información específica sobre usted</h4>
+        <p>En ciertos casos, CANNING MEDICAL CENTER podrá requerir datos personales para acceder a ciertos servicios o funcionalidades, como por ejemplo: nombre completo, domicilio, tipo y número de documento, dirección de correo electrónico, número de afiliado o teléfono (en adelante, "Información Personal"). Esta información será utilizada con el fin de brindar los servicios relacionados con las actividades del club.</p>
+        <p>CANNING MEDICAL CENTER garantiza la confidencialidad de dicha información.</p>
+
+        <h4>4. Fines de la recopilación</h4>
+        <p>CANNING MEDICAL CENTER podría recoger información personal en el SITIO para autenticar al afiliado, gestionar actividades del club, realizar encuestas, suscripciones, ofrecer servicios relacionados y otros intercambios de información en su SITIO. El propósito es conocer mejor al usuario para brindarle un servicio más personalizado.</p>
+        <p>En caso de que nos provea su Información Personal mediante el envío de un mail, la misma será utilizada solo para responder o brindar el servicio solicitado.</p>
+        <p>Al ingresar su Información Personal en el SITIO, usted acepta que CANNING MEDICAL CENTER puede archivarla y/o descartarla, total o parcialmente, para referencia futura o acciones internas relacionadas con la gestión del club.</p>
+
+        <h4>5. ¿Qué puede hacer CANNING MEDICAL CENTER con esa información?</h4>
+        <p>CANNING MEDICAL CENTER no revelará ni compartirá información personal con terceros sin el consentimiento expreso del usuario, salvo que sea requerida por vía administrativa, judicial o por una norma legal vigente.</p>
+        <p>CANNING MEDICAL CENTER puede utilizar la información para enviar comunicaciones relacionadas con actividades, servicios o novedades del club. Los usuarios podrán optar por no recibir dichas comunicaciones, solicitándolo expresamente.</p>
+        <p>CANNING MEDICAL CENTER puede usar Información Personal para realizar estadísticas agregadas, sin identificación individual. También podrá usar su dirección IP para diagnosticar problemas técnicos y administrar el SITIO.</p>
+        <p>No compartimos información sobre usuarios individuales con terceros ajenos al club. Podríamos compartir datos estadísticos agregados con fines de mejora del SITIO o evaluación institucional.</p>
+
+        <h4>6. Excepciones</h4>
+        <p>No obstante lo mencionado, CANNING MEDICAL CENTER podrá divulgar información privada cuando considere de buena fe que es razonablemente necesario para:</p>
+        <ol>
+            <li>Cumplir con una exigencia legal (orden judicial, citación, etc.).</li>
+            <li>Responder a requerimientos de una autoridad gubernamental o reguladora.</li>
+            <li>Proteger los derechos, propiedad o seguridad de CANNING MEDICAL CENTER, sus afiliados o terceros.</li>
+        </ol>
+
+        <h4>7. Privacidad de los menores</h4>
+        <p>Debido a que los menores de edad pueden no comprender plenamente esta política de privacidad, instamos a padres, tutores o adultos responsables a supervisar el acceso y uso que los menores hagan del SITIO y a enseñarles a proteger su información personal en línea.</p>
+
+        <h4>8. Cambios en la política de privacidad</h4>
+        <p>CANNING MEDICAL CENTER podrá revisar, modificar y actualizar esta política en cualquier momento. En caso de cambios, se informará en este mismo sitio para que los usuarios estén al tanto. Por eso, recomendamos revisar esta política periódicamente.</p>
+
+        <h4>9. Derecho de acceso, rectificación y supresión</h4>
+        <p>En cumplimiento con la Ley Nº 25.326, CANNING MEDICAL CENTER garantiza al titular de los datos personales el derecho a acceder, actualizar, rectificar y, cuando corresponda, suprimir sus datos personales.</p>
+        <p>El titular de los datos no está obligado a proporcionar datos sensibles. Asimismo, es responsable de la veracidad de los datos brindados.</p>
+        <p>El derecho de acceso podrá ejercerse en forma gratuita en intervalos no menores a seis meses, salvo que se acredite un interés legítimo, conforme al art. 14 inc. 3 de la Ley N° 25.326.</p>
+        <p>La DIRECCIÓN NACIONAL DE PROTECCIÓN DE DATOS PERSONALES es el órgano de control que atiende denuncias respecto al incumplimiento de las normas sobre protección de datos.</p>
+
+        <h4>10. Aceptación de estos términos</h4>
+        <p>Al utilizar nuestro SITIO, usted declara conocer y aceptar esta Política de Privacidad y los Términos y Condiciones de uso del sitio web de CANNING MEDICAL CENTER.</p>
+    </div>
+
+    <footer>© CANNING MEDICAL CENTER – </footer>
+</div>
+
+</body>
+</html>
